@@ -16,5 +16,8 @@ The Car Rental App is a user-friendly and efficient application designed to simp
 - **User Reviews and Ratings:** Users can leave reviews and ratings for cars they have rented, helping future customers make informed decisions.
 - **GPS Tracking:** Provides real-time tracking of rented cars for security and convenience.
 
+  ## Technologies Used
+- **UI Design:** Figma
+
 
 
