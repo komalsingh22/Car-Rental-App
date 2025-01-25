@@ -18,10 +18,10 @@ The Car Rental App is a user-friendly and efficient application designed to simp
 
   ## Technologies Used
 - **UI Design:** Figma
-<img width="340" alt="Screenshot 2025-01-24 at 9 58 24 PM" src="https://github.com/user-attachments/assets/c1b2ab83-8261-43b2-9038-b246e90ddd96" />
 
 
-  <img width="340" alt="Screenshot 2025-01-24 at 9 58 03 PM" src="https://github.com/user-attachments/assets/09611bd4-ea9b-480a-9dd4-b04d331310e0" />
+
+
 
   
 
