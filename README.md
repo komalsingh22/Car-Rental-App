@@ -20,23 +20,23 @@ The Car Rental App is a user-friendly and efficient application designed to simp
 - **UI Design:** Figma
 
 ## Images
-1. **Start Screen**
+### Start Screen
    ![Start Screen](https://github.com/user-attachments/assets/68a8316d-3931-491e-b5ee-ed53f0b10d43)
 
-2. **LogIn Page**
+### LogIn Page
    ![LogIn Page](https://github.com/user-attachments/assets/b9aa1b0e-4657-40e4-a718-528c19f638c4)
 
-3. **Sign Up Page**
+### Sign Up Page
    ![Sign Up Page](https://github.com/user-attachments/assets/26aaa628-dfab-4d39-b71d-0b938d3bab75)
 
-4. **Home Page**
+### Home Page
    ![Home Page](https://github.com/user-attachments/assets/e709e067-cc96-4e96-aec5-4257386a630d)
 
-5. **Car Details Screen**
+### Car Details Screen
    ![Car Details Screen](https://github.com/user-attachments/assets/6c47cd0b-d9ca-4622-9eed-c40f0d312e83)
 
-6. **Book Now Page**
+### Book Now Page
    ![Book Now Page](https://github.com/user-attachments/assets/4c197d89-a531-465e-adf5-c436e765c0e3)
 
-7. **Profile Page**
+### Profile Page
    ![Profile Page](https://github.com/user-attachments/assets/22f8f6ee-bb93-49f5-8ee3-ff975e855230)
